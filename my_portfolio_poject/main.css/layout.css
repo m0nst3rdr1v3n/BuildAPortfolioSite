@@ -1,0 +1,22 @@
+<style>
+  body {
+    margin: 2em;
+  }
+  #icon {
+    width: 30px;
+    height: 30px;
+  }
+  #article-img {
+    width: 12em;
+  }
+  #card-img {
+    height: auto;
+    height: auto;
+  }
+  #footer {
+    width: 18em;
+  }
+  .body {
+    margin: 1em;
+  }
+</style>
