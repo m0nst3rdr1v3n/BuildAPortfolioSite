@@ -1,22 +1,30 @@
 <style>
   body {
-    margin: 2em;
-  }
-  #icon {
-    width: 30px;
-    height: 30px;
-  }
-  #article-img {
-    width: 12em;
-  }
-  #card-img {
-    height: auto;
-    height: auto;
-  }
-  #footer {
-    width: 18em;
-  }
-  .body {
-    margin: 1em;
-  }
+  margin: 2em;
+}
+
+#icon {
+  width: 30px;
+  height: 30px;
+}
+
+#article-img {
+  width: 12em;
+  padding: 1em 1em 0 0;
+}
+
+.card-img {
+  height: auto;
+  height: auto;
+}
+
+#footer {
+  width: 18em;
+}
+#about-me {
+  padding: 1em;
+}
+#about-me-header {
+  padding: 1em;
+}
 </style>
