@@ -1,4 +1,10 @@
 <style>
+/* Added this to fin scrolling issue on iOS devices */
+  html {
+  -webkit-overflow-scrolling: touch;
+  overflow: auto;
+}
+
   body {
   margin: 2em;
 }
